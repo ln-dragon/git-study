@@ -1,0 +1,7 @@
+[
+  "main.py::TestBaili::test_a",
+  "main.py::TestBaili::test_b",
+  "main.py::test_beifan",
+  "test_delete.py::TestDelete::test_02",
+  "test_login.py::TestLogin::test_01"
+]
